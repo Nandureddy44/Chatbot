@@ -50,10 +50,10 @@ Press `Ctrl+C` when you're done with editing env and `:wq` to save the env<br>
 
 <h3 align="center">──「 sᴘᴇᴄɪᴀʟ ᴛʜᴀɴᴋs 」──</h3>
 
-- [ᴘʀᴀɴᴀᴠ ᴀᴊᴀʏ](https://github.com/Moezilla)
-- [ᴀɴᴏɴʏᴍᴏᴜs](https://github.com/AnonymousX1025)
-- [ᴀʙɪsʜɴᴏɪ](https://t.me/Abishnoi1m)
-- [ʜʏᴘᴇʀ ᴋɪɴɢ](https://t.me/HYPER_AD13)
+-
+- [&](https://github.com/AnonymousX1025)
+- [EVIL ASTRA](https://t.me/Abishnoi1m)
+- [EVIL ASTRA](https://t.me/HYPER_AD13)
 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
