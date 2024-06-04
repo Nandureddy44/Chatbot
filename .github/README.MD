@@ -50,10 +50,8 @@ Press `Ctrl+C` when you're done with editing env and `:wq` to save the env<br>
 
 <h3 align="center">──「 sᴘᴇᴄɪᴀʟ ᴛʜᴀɴᴋs 」──</h3>
 
--
-- [&](https://github.com/AnonymousX1025)
-- [EVIL ASTRA](https://t.me/Abishnoi1m)
-- [EVIL ASTRA](https://t.me/HYPER_AD13)
+- [CHANNEL](https://t.me/HeartStorys1)
+- [EVIL ASTRA](https://t.me/ASTRA_SQL)
 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
