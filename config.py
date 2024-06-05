@@ -9,7 +9,7 @@ API_HASH = getenv("API_HASH", "eda79401b2cd468da28664b5802f1bbc")
 BOT_TOKEN = getenv("BOT_TOKEN", None)
 OWNER_ID = int(getenv("OWNER_ID", 7171672841))
 MONGO_URL = getenv("MONGO_URL", None)
-SUPPORT_GRP = getenv("SUPPORT_GRP", "MoonXtns_Updates")
+SUPPORT_GRP = getenv("SUPPORT_GRP", "HeartStorys1")
 UPDATE_CHNL = getenv("UPDATE_CHNL", "HeartStorys1")
 OWNER_USERNAME = getenv("OWNER_USERNAME", "its_me_Naav")
 
