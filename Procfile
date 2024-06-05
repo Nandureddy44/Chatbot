@@ -1,1 +1,1 @@
-worker: python3 -m Moon X Chat
+worker: python3 -m Mickey
