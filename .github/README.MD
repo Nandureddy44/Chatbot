@@ -1,17 +1,7 @@
-<h2 align="center">
-    ──「 ᴍɪᴄᴋᴇʏ-ᴍᴏᴜsᴇ 」──
-</h2>
-<p align="center">
-  <img src="https://te.legra.ph/file/2ffb5248092481b85e04a.jpg">
-</p>
+"https://dashboard.heroku.com/new?template=https://github.com/dattudd/Anonxmusic-"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-bringle?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
 
-<h3 align="center">
 
-    ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʟᴏᴄᴀʟ ʜᴏsᴛ/ᴠᴘs 」─
-
-</h4
-align="center
-[![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?type=git&builder=buildpack&repository=github.com/koyeb/example-nestjs&branch=main&name=nestjs-on-koyeb)
+[![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?type=git&builder=buildpack&repository=https://github.com/ChinnaDFS/Kid-x-music-nestjs&branch=main&name=nestjs-on-koyeb)
 
 - Get your [Necessary Variables](https://github.com/Devarora-0981/Mickey/blob/Dev/sample.env)
 - Upgrade and Update by :
