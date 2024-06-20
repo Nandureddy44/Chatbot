@@ -1,5 +1,3 @@
-"https://dashboard.heroku.com/new?template=https://github.com/dattudd/Anonxmusic-"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-bringle?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
-
 
 [![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?type=git&builder=buildpack&repository=https://github.com/ChinnaDFS/Kid-x-music-nestjs&branch=main&name=nestjs-on-koyeb)
 
