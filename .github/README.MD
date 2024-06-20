@@ -9,7 +9,7 @@
 
     ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʟᴏᴄᴀʟ ʜᴏsᴛ/ᴠᴘs 」─
 </h4>
-[![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?type=git&builder=buildpack&repository=https://github.com/ChinnaDFS/Kid-x-music-nestjs&branch=main&name=nestjs-on-koyeb)
+[![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)]
 
 
 - Get your [Necessary Variables](https://github.com/Devarora-0981/Mickey/blob/Dev/sample.env)
