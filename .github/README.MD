@@ -9,7 +9,8 @@
 
     ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʟᴏᴄᴀʟ ʜᴏsᴛ/ᴠᴘs 」─
 </h4>
-[![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)]
+[![Deploy to Koyeb]
+
 
 
 - Get your [Necessary Variables](https://github.com/Devarora-0981/Mickey/blob/Dev/sample.env)
